@@ -7,7 +7,9 @@ Welcome to my page! A passionate developer working on projects in his spare time
 100% of my projects are open source
 I currently maintain 1 up-to-date and open source project :
 
+#### NPM
 * **discord-avanced [github](https://github.com/TonyKun7/discord-avanced) / [npm](https://www.npmjs.com/package/@tonykun7/discord-avanced)**
+* * exemple: discord-logs-voice [github](https://github.com/TonyKun7/discord-logs-voice)
 
 Skills & Tools 🖱️
 
