@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @TonyKun7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m [@TonyKun7](https://github.com/TonyKun7/)
 
-<!---
-TonyKun7/TonyKun7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my page! A passionate developer working on projects in his spare time from France.
+
+### Projetcs ✨
+
+100% of my projects are open source
+I currently maintain 1 up-to-date and open source project :
+
+* **discord-avanced [github](https://github.com/TonyKun7/discord-avanced) [npm](https://www.npmjs.com/package/@tonykun7/discord-avanced)**
+
+Skills & Tools 🖱️
+
+I have a good command of the languages [nodejs](https://nodejs.org/en/) and and I learn the [typescript](https://www.typescriptlang.org/)
+
+I would like to learn Goland and electron.
+
+## Contact Me 🤝
+
+I'm available on discord **Tony Kun#8496**
+
+## View Count 👀
+
+![](https://komarev.com/ghpvc/?username=TonyKun7)
