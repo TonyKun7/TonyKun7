@@ -15,7 +15,7 @@ I currently maintain 1 up-to-date and open source project :
  * DISCORD
    * discord-logs-voice [github](https://github.com/TonyKun7/discord-logs-voice)
 
-Skills & Tools 🖱️
+## Skills & Tools 🖱️
 
 I have a good command of the languages [nodejs](https://nodejs.org/en/) and and I learn the [typescript](https://www.typescriptlang.org/)
 
