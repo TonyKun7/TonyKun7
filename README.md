@@ -9,7 +9,7 @@ I currently maintain 1 up-to-date and open source project :
 
 #### NPM
 * DISCORD
-  * discord-avanced [github](https://github.com/TonyKun7/discord-avanced) / [npm](https://www.npmjs.com/package/@tonykun7/discord-avanced)**
+  * discord-avanced [github](https://github.com/TonyKun7/discord-avanced) / [npm](https://www.npmjs.com/package/@tonykun7/discord-avanced)
      * exemple: discord-logs-voice [github](https://github.com/TonyKun7/discord-logs-voice)
  #### GITHUB
  * DISCORD
