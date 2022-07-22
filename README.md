@@ -20,7 +20,7 @@ I would like to learn Goland and electron.
 
 ## Contact Me 🤝
 
-I'm available on discord **Tony Kun#8496**
+I'm available on discord https://discord.gg/XphMPJgNFc
 
 ## View Count 👀
 
