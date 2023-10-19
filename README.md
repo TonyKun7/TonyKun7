@@ -15,7 +15,7 @@ I would like to learn Goland and electron.
 
 ## Contact Me 🤝
 
-I'm available on discord https://discord.gg/XphMPJgNFc
+I'm available on discord tonykun#0
 
 ## View Count 👀
 
